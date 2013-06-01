@@ -7,7 +7,7 @@ public class BigDuriRitterNPlus1
 	Fraction b[];
 	Fraction x[];
 	int n;
-
+	
 	public BigDuriRitterNPlus1(Fraction[][] a, Fraction[] b, int n)
 	{
 		super();
